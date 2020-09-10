@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# 远古系统安装教程
 
-You can use the [editor on GitHub](https://github.com/Leilei332/oldsys.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 虚拟机软件下载
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Vistualbox官网](https://www.virtualbox.org/)
 
-### Markdown
+[VMware Workstation 15安装包](https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.0-14665864.exe)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+激活码：
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+UY758-0RXEQ-M81WP-8ZM7Z-Y3HDA
+VF750-4MX5Q-488DQ-9WZE9-ZY2D6
+UU54R-FVD91-488PP-7NNGC-ZFAX6
+YC74H-FGF92-081VZ-R5QNG-P6RY4
+YC34H-6WWDK-085MQ-JYPNX-NZRA2
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Windows
 
-### Jekyll Themes
+Windows Me
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Leilei332/oldsys.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Windows 2000
 
-### Support or Contact
+### MS-DOS
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[7.10](InstallGuide\dos71.md)
