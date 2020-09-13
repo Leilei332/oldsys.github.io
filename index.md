@@ -24,4 +24,4 @@ Windows 2000
 
 ### MS-DOS
 
-[7.10](InstallGuide\dos71.md)
+[7.10](dos71.md)
