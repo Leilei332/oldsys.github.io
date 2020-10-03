@@ -2,7 +2,7 @@
 
 ms-dos的软盘💾镜像来自winworldpc.com
 
-[MS-DOS 7.10](https://winworldpc.com/product/ms-dos/7x)
+[MS-DOS 7.10下载地址](https://winworldpc.com/product/ms-dos/7x)
 
 找到Downloads
 
@@ -80,7 +80,7 @@ ms-dos的软盘💾镜像来自winworldpc.com
 
 ![](pic\dos71_17.png)
 
-点Next
+点Continue
 
 ![](pic\dos71_18.png)
 
